@@ -1,0 +1,8 @@
+{
+  "name": "Remix SafeTrek Tourist Monitor",
+  "description": "A minimal, modern tourist safety app featuring SOS, location sharing, safe zone mapping, offline capabilities, AI translation, and real-time alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
